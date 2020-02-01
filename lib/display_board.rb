@@ -1,10 +1,11 @@
 def display_board(display_board)
   x = ["   ","|","   ","|","   "]
   puts x
+  return x
 end
 
-display_board
+puts x
 puts -----------
-display_board
+puts x
 puts -----------
-display_board
+puts x 
