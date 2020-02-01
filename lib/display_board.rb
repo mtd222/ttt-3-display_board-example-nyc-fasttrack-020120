@@ -1,4 +1,4 @@
-def display_board(TicTacToeBoard)
+def display_board(display_board)
   x = [" ",|," ",|," "]
   puts x
   ------------
