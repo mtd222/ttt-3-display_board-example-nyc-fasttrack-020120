@@ -3,11 +3,3 @@ def display_board
 end
 
 display_board
-
-x = ["   ","|","   ","|","   "]
-
-puts "x"
-puts -----------
-puts "x"
-puts -----------
-puts "x"
