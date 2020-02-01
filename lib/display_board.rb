@@ -1,5 +1,5 @@
 def display_board(display_board)
-  x = ["   ",|,"   ",|,"   "]
+  x = ["   ","|",   ",""|","   "]
   puts x
   ------------
   puts x
