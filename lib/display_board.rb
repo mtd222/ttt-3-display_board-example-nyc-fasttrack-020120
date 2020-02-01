@@ -6,7 +6,6 @@ def display_board
   puts "row"
   puts "-----------"
   puts "row"
-
 end
 
 display_board
