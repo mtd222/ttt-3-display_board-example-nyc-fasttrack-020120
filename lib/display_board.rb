@@ -4,7 +4,7 @@ def display_board(display_board)
 end
 
 display_board
------------
+puts -----------
 display_board
------------
+puts -----------
 display_board
